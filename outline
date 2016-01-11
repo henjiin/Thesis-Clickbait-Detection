@@ -1,0 +1,49 @@
+Introduction
+	Einführung in das Themengebiet
+
+Clickbait
+	definition
+	examples
+	benefits
+	drawbacks
+	characteristics
+
+	- Einführung in clickbait
+
+Corpus
+	Status
+	Statistics
+
+Annotation	
+	- Unsere Annotationsweise
+	- Eindrücke
+	- Bespiele
+	- Schwierigkeiten
+	- Themen die in der Woche behandelt wurden
+
+Features
+	-Beschreibung der Feature Gruppen (Wortlisten etc.)
+	-Beschreibung von interessanteren/wichigen Features
+
+Machine Learning
+	-Verwendete Algorithmen
+	-Statistiken
+	-EinzelFeature und FeatureGruppen Performance
+	-Probleme bei der Detection
+
+Webservice/ Chrome Addon
+	-Wie lief das ausprobieren
+	-Unter umständen feedback von blogs etc?
+
+Conclusion
+
+Related Work	
+	-Am Ende um den logischen Fluss nicht zu brechen
+
+Further Work
+	-Was ist noch zu tun?
+	-Größerer Corpus
+	-Mehr annotatoren
+	-Bessere Features
+	...
+	

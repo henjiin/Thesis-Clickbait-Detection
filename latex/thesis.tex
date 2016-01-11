@@ -1,0 +1,90 @@
+\documentclass[german,bachelor]{webisthesis}
+%\documentclass[english,master]{webisthesis}
+% When you change the language, pdflatex may halt on recompilation.
+% Just hit enter to continue and recompile again. This should fix it.
+
+%
+% Values
+% ------
+\ThesisSetTitle{Clickbait Detection with Machine Learning}
+\ThesisSetKeywords{Clickbait, Machine learning} % only for PDF meta attributes
+
+\ThesisSetAuthor{Sebastian Köpsel}
+\ThesisSetStudentNumber{100146}
+\ThesisSetDateOfBirth{1}{1}{1990}
+\ThesisSetPlaceOfBirth{Neubrandenburg}
+
+\ThesisSetSupervisors{Prof.\ Dr.\ Matthias Hagen,Prof.\ Dr.\ Benno Stein}
+
+\ThesisSetSubmissionDate{31}{2}{2022}
+
+%
+% Suggested Packages
+% ------------------
+\usepackage[sort&compress]{natbib}
+%   Allows citing in different ways (e.g., only the authors if you use the
+%   citation again within a short time).
+%
+\usepackage{booktabs}
+%    For tables ``looking the right way''.
+%
+%\usepackage{tabularx}
+%    Enables tables with columns that automatically fill the page width.
+%
+%\usepackage[ruled,algochapter]{algorithm2e}
+%    A package for pseudo code algorithms.
+%
+%\usepackage{amsmath}
+%    For tabular-style formatting of mathematical environments.
+%
+
+% Create links in the pdf document
+% Hyperref has some incompatibilities with other packages
+% Some other packages must be loaded before, some after hyperref
+% Additional options to the hyperref package can be provided in the brlsaces []
+\usehyperref[backref] % This will add back references in the bibliography
+
+\begin{document}
+\begin{frontmatter}
+  \begin{abstract}
+    We tried to detect clickbait with machine learning on a self-build corpus. We did ok.
+  \end{abstract}
+
+  \tableofcontents
+
+  %\chapter*{Acknowledgements} % optional
+  %I thank the authors of the webisthesis template for their excellent work!
+
+  %\listoffigures % optional
+
+  %\listoftables % optional
+
+  %\listofalgorithms % optional
+  %    requires package algorithm2e
+
+  % optional: list of symbols/notation (e.g., using the nomencl package)
+\end{frontmatter}
+
+\include{introduction}
+
+\include{verwandte_arbeit}
+
+\include{clickbait}
+
+\include{korpus}
+
+\include{machine_learning}
+
+\include{auswertung}
+
+\include{webservice}
+
+\include{zusammenfassung}
+% Appendix
+
+% Bibliography
+\bibliographystyle{unsrt} % requires package natbib. An alternative is apalike
+\bibliography{literature}    % load file literature.bib
+
+\end{document}
+

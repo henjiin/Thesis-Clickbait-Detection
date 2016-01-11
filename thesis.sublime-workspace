@@ -1,0 +1,890 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"va",
+				"varall"
+			],
+			[
+				"option",
+				"optional"
+			],
+			[
+				"optin",
+				"optional"
+			],
+			[
+				"re",
+				"repeated"
+			],
+			[
+				"Protobuf",
+				"ProtobufExperimentTestSet"
+			],
+			[
+				"r",
+				"route"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"S",
+				"sebastianVote"
+			],
+			[
+				"mar",
+				"martinVote"
+			],
+			[
+				"a",
+				"atleast2"
+			],
+			[
+				"pr",
+				"prof"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"se",
+				"selectAll"
+			],
+			[
+				"for",
+				"forceDirectedLabelPositioning"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"_mar",
+				"_marker"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"marker",
+				"markerLabel"
+			],
+			[
+				"_mark",
+				"_markerGroup"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"defaul",
+				"default_default_nope"
+			],
+			[
+				"_",
+				"_map"
+			],
+			[
+				"hivent",
+				"hiventHandle"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"region",
+				"regionPolygon"
+			],
+			[
+				"reg",
+				"regionPolygon"
+			],
+			[
+				"lo",
+				"locationName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "latex/literature.bib",
+			"settings":
+			{
+				"buffer_size": 23478,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sebastiankopsel/meh.98",
+			"settings":
+			{
+				"buffer_size": 236,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: onlinecite"
+			],
+			[
+				"markd",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"markdo",
+				"Build With: Markdown"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packe",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+			" import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sebastiankopsel/Dropbox/Bachelor/thesis/latex",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/proto-files"
+	],
+	"file_history":
+	[
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-21-oversampled/experiments/attributeSelected;100-66Split-LOGISTIC_REGRESSION/attributeSelected;100-66Split-LOGISTIC_REGRESSION.json",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-21-undersampled/experiments/I;Iwealth_participant-66Split-LOGISTIC_REGRESSION/I;Iwealth_participant-66Split-LOGISTIC_REGRESSION.eval",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-11-25-first-run/MessageText BoW-66Split-RANDOM_FOREST/MessageText BoW-66Split-RANDOM_FOREST.json",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-21-oversampled/experiments/attributeSelected;10-66Split-LOGISTIC_REGRESSION/attributeSelected;10-66Split-LOGISTIC_REGRESSION.json",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-21-oversampled/experiments/attributeSelected;10-66Split-J48/attributeSelected;10-66Split-J48.json",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-21-oversampled/experiments/attributeSelected;10-66Split-RANDOM_FOREST/attributeSelected;10-66Split-RANDOM_FOREST.json",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-21-oversampled/experiments/attributeSelected;100-66Split-J48/attributeSelected;100-66Split-J48.json",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-22-oversampled/experiments/M;Hashtags-66Split-NAIVE_BAYES/M;Hashtags-66Split-NAIVE_BAYES.json",
+		"/home/sebastiankopsel/meh.98",
+		"/home/sebastiankopsel/Data/corpus/generated-json/607687243315081216.json",
+		"/home/sebastiankopsel/Data/corpus/generated-json-new-categories/608053643300995072.json",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/getstatus.sh",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-all-balanced-einigkeit/selection-3k-entries.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-undersampled/experiments/all-attributes;-66Split-LOGISTIC_REGRESSION/all-attributes;-66Split-LOGISTIC_REGRESSION.json",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-undersampled/J48",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-13-smote/RANDOM_FOREST",
+		"/home/sebastiankopsel/Data/corpus/generated-json/607675444834398208.json",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-21-undersampled/experiments/Msg;MT1C-66Split-J48/Msg;MT1C-66Split-J48.json",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-21-oversampled/dataset/clickbait-test.arff",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-21-undersampled/experiments/Msgall-66Split-J48/Msgall-66Split-J48.json",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-21-undersampled/clickbait.arff",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-21-undersampled/clickbait-test.arff",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-21-oversampled/dataset/clickbait.arff",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-all-balanced-einigkeit/annotation-3k-final.csv-unity",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-all-balanced-einigkeit/counted",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-all-balanced-unanimity/annotation-3k-final.csv-unity",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-interrater-agreement-all-balanced/sebastian-hagen",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-interrater-agreement-all-balanced/sebastian-hagen-martin",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-annotation-sebastian-balanced/selection-3k-entries.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-all-balanced-einigkeit/merged",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-interrater-agreement-all-balanced/sebastian-hagen-martin-reduced",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-annotation-sebastian-balanced/merged",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-annotation-sebastian-balanced/final",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-annotation-sebastian-balanced/sebastian-balanced",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-all-balanced-majority-statistics/counted",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-truth/annotation-3k-final-sorted.csv",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-18-oversampled/dataset/clickbait.arff",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-19-oversampled/experiments/attributeSelected;10-66Split-J48/attributeSelected;10-66Split-J48.eval",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-19-oversampled/experiments/attributeSelected;10-66Split-J48/attributeSelected;10-66Split-J48-test.arff",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-19-oversampled/experiments/attributeSelected;10-66Split-J48/attributeSelected;10-66Split-J48-train.arff",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-19-oversampled/dataset/clickbait.arff",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/testFiles/annotation/anno1",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/testFiles/annotation/anno2",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/testFiles/annotation/anno3",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-interrater-agreement-all-balanced/hagen-balanced",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/testFiles/annotation/unity",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/testFiles/annotation/majo",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-interrater-agreement-all-balanced/martin-balanced",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-21-interrater-agreement-all-balanced/sebastian-balanced",
+		"/home/sebastiankopsel/Data/corpus/generated-json/607675970632351744.json",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-truth/selection-3k-entries-sorted.csv",
+		"/home/sebastiankopsel/Scripts/annotation-per-publisher-reduced.awk",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-koepsel/cb-publisher-reduced",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-17-oversampled/dataset/clickbait.arff",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-17-undersampled/experiments/attributeSelected;100-66Split-NAIVE_BAYES/attributeSelected;100-66Split-NAIVE_BAYES.json",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-17-unsampled/experiments/attributeSelected;10-66Split-RANDOM_FOREST/attributeSelected;10-66Split-RANDOM_FOREST.json",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-17-smotesampled/experiments/attributeSelected;10-66Split-J48/attributeSelected;10-66Split-J48.json",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-17-oversampled/experiments/all-attributes;-66Split-LOGISTIC_REGRESSION/all-attributes;-66Split-LOGISTIC_REGRESSION.json",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/annotation--potthast-balanced.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/annotation-koepsel-liberal.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/annotation-hagen-balanced.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/hagen-koepsel-all-wo-ids",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/hagen-koepsel-martin.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-koepsel/cb-publisher",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-18-oversampled/dataset/clickbait.csv",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-18-unsampled/dataset/clickbait.arff",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-18-oversampled/dataset/clickbait-test.arff",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-18-undersampled/dataset/clickbait.arff",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/dump",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/arff.arff",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/hagen-koepsel-martin",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/hagen-koepsel.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/sebastian-matthias-martin-simple.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/agreements.txt",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/process.sh",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-17-oversampled/experiments/all-attributes;-66Split-LOGISTIC_REGRESSION/all-attributes;-66Split-LOGISTIC_REGRESSION-train.arff",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-17-oversampled/experiments/all-attributes;-66Split-LOGISTIC_REGRESSION/all-attributes;-66Split-LOGISTIC_REGRESSION.eval",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-13-smote/dataset/clickbait.arff",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-17-oversampled/dataset/clickbait-test.arff",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/Experiments/2015-12-18-oversampled/experiments/all-attributes;-66Split-LOGISTIC_REGRESSION/all-attributes;-66Split-LOGISTIC_REGRESSION.json",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/getstatus.sh",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/hagen-koepsel-all-only-nums.csv",
+		"/run/user/1002/gvfs/sftp:host=webis19.medien.uni-weimar.de/home/webis/Clickbait-detection/Experiments/2015-12-17-undersampled/experiments/I;IAcademic-66Split-LOGISTIC_REGRESSION/I;IAcademic-66Split-LOGISTIC_REGRESSION.json",
+		"/home/sebastiankopsel/save/experimetn-save",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-koepsel/annotation-3k-koepsel-sorted.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-koepsel/selection-3k-entries-sorted.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-truth/cb-publisher",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-truth/cb-publisher-reduced",
+		"/home/sebastiankopsel/Code/ClickbaitDetection/proto-files/experiment.proto",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-13-oversample/NAIVE_BAYES",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-13-oversample/RANDOM_FOREST",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-13-smote/all-attributes",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-13-smote/NAIVE_BAYES",
+		"/home/sebastiankopsel/Scripts/Python_Scripts/script.py",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-13-smote/J48",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-13-smote/dataset/clickbait.arff",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-13-oversample/dataset/clickbait.arff",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-13-oversample/all-attributes",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-13-oversample/J48",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-13-smote/LOGISTIC_REGRESSION",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-koepsel/ex",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/process.sh",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-hagen/test",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-hagen/annotation-per-publisher-hagen-reduced",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-potthast/annotation-per-publisher-potthast",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-hagen/extended-annotation",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-potthast/annotation-per-publisher-potthast-reduced",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-potthast/cb-per-publisher-potthast.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-hagen/annotation-3k-hagen.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/all",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-final-annotations/balanced.sh",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-final-annotations/liberal.sh",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-final-annotations/annotation-3k-hagen.csv-balanced",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/hagen-potthast",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/annotation-3k-hagen-sorted-csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-interrater-aggreement/annotation-3k-annotation-3k-potthast.csv-sorted",
+		"/home/sebastiankopsel/Dropbox/Hiwi/shared-tasks/dblp-greps-relevant/challenge",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-13-bow/bow-sorted-by-chance.txt",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-potthast/annotation-per-user-reduced.awk",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-potthast/annotation-per-user-potthast-reduced",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-potthast/annotation-per-user.awk",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-hagen/annotation-per-publisher-hagen",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-potthast/annotation-per-user-potthast",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-hagen/selection-3k-entries-sorted.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-hagen/annotation-3k-hagen-sorted.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-potthast/selection-3k-entries-sorted.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-potthast/annotation-3k-potthast-sorted.csv",
+		"/home/sebastiankopsel/data-wstud-thesis-koepsel2/experiments/2015-12-15-cb-publisher-ratio-potthast/annotation-potthast-extended"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<current file>",
+			"./",
+			"",
+			"*.coffee",
+			"*.less",
+			"*.coffee",
+			"HiventMarkerRegion.coffee",
+			"HiventRegion.coffee",
+			"*.coffee",
+			"-*min.js, -*leaflet*.js, -*qjuery*.js, -*.php, -*.mp4 *.coffee",
+			"-*min.js, -*leaflet*.js, -*qjuery*.js",
+			"-*.min.js, -*leaflet?.*.js , -*qjuery.*.js",
+			"-*.min.js -*leaflet?.*.js -*qjuery.*.js",
+			"-*min.js -*leaflet?.*.js -*qjuery.*.js",
+			"-*min.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ESPNd",
+			"clickbait",
+			"no-clickbait",
+			"^\\d*,",
+			"{no,yes}",
+			"\\{",
+			"{",
+			"@attribute T;MC1T:aren’t numeric",
+			"MentionedUser",
+			"clickbait",
+			"no-clickbait",
+			"^\\d*,",
+			"clickbait",
+			"no-clickbait",
+			"^\\d*+,",
+			"\\d*+,",
+			"\\d*?,",
+			"^\\d*,",
+			"\\d*?,",
+			"\\d*,",
+			"clickbait",
+			"no-clickbait",
+			"1,1$",
+			"clickbait",
+			"no-clickbait",
+			".+,2,2",
+			".,2,2",
+			"clickbait",
+			"no-clickbait",
+			"^.*?,",
+			"^.*,",
+			"^.*?,",
+			"clickbait",
+			"no-clickbait",
+			"^clickbait",
+			",clickbait",
+			"[^,]clickbait",
+			",clickbait",
+			"^.*?,",
+			".*?,",
+			"unsure",
+			"^.*?,",
+			".*?,",
+			".*+,",
+			".*?,",
+			"07668877594497024,",
+			"clicbkait",
+			"RT:",
+			"all",
+			";all;",
+			"(.*)",
+			"^",
+			"Media",
+			"RANDOM_FOREST",
+			"J48",
+			".*J48.*",
+			"NAIVE_BAYES",
+			".*NAIVE_BAYES.*",
+			"LOGISTIC_REGRESSION",
+			".*LOGISTIC_REGRESSION.*",
+			"-66Split-",
+			"^I;",
+			"^T;",
+			"^T-",
+			"T-",
+			"I;I",
+			"T-",
+			";I",
+			"I;",
+			"Msg-",
+			"M-",
+			"Downworthy-",
+			"I-",
+			"Downworthy-",
+			"I-",
+			"J4",
+			"LOGISTIC_REGRESSION",
+			"RANDOM_FOREST",
+			"NAIVE_BAYES",
+			"((.*?);)",
+			"@data",
+			"-(.*maniac challenge)",
+			"-(.*i2b2)",
+			"-(.*CLADE)",
+			"-(.*PoplMark)",
+			"-(.*IEEE)",
+			"-(.*REPERE)",
+			"-.*\\band challenges.*",
+			"\\band Challenges",
+			"-(.*SIAM)",
+			"-(.*RSA)",
+			"-(.*A Grand Challenge)",
+			"-(.*DARPA)",
+			"-(.*SAMPL3)",
+			"-(.*SVP Challenge)",
+			"-(.*REPERE)",
+			"-(.*LIM)",
+			"-(.*LifeCLEF)",
+			"-(.*ESA Lunar)",
+			"ESA Lunar",
+			"-(.*VAST)",
+			"-.*VAST",
+			".*Future Challenges.*",
+			"Future Challenges",
+			".*Issues and Challenges.*",
+			".*trends and challenges.*",
+			".*research challenges.*",
+			".*Opportunities and Challenges.*",
+			"Finish",
+			"Start",
+			"string",
+			".*Challenges and.*",
+			"Challenges and",
+			"-Challenges in.*",
+			"^",
+			".*CoNLL.*",
+			"^",
+			"vehicle",
+			".*[iI]ndoor.*",
+			".*RoboCup.*",
+			".*Robot.*",
+			".*Math.*",
+			"roboc",
+			"^.*Robo.*",
+			"Robo",
+			"robo",
+			"competition",
+			".*wireless\n.*neural network.*"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"2",
+			"1",
+			"",
+			"2",
+			"1",
+			"",
+			"1",
+			"5",
+			"",
+			"2",
+			"1",
+			"2",
+			"1",
+			"",
+			"2",
+			"1",
+			"2",
+			"",
+			"no-clickbait",
+			"",
+			"clickbait",
+			";",
+			"$1\",",
+			"\"",
+			"",
+			"Inquirer;",
+			"Target;",
+			"Target",
+			"Target-all",
+			"I;",
+			"T-all;",
+			"T;all",
+			";",
+			"Inquirer;",
+			"Inquirer",
+			"Msg;all-",
+			"M;all-",
+			"Downworthy;all-",
+			"I;all-",
+			";Downworthy-",
+			";I-",
+			"J48;",
+			"LOGISTIC_REGRESSION;",
+			"RANDOM_FOREST;",
+			"NAIVE_BAYES;",
+			"$2",
+			"$1",
+			"($1)",
+			"~$1",
+			"-",
+			"",
+			"-",
+			"missing",
+			"\\n",
+			"",
+			"\\nDICT",
+			"",
+			",",
+			"",
+			"\"\\1\"",
+			"^\"\\1\"",
+			"",
+			"$1",
+			"- ",
+			"- \\[",
+			"- ",
+			"\\n",
+			"##",
+			"#",
+			"",
+			"-",
+			"",
+			"/\">\\n",
+			"",
+			"lo",
+			"",
+			"/\">		\\n",
+			"",
+			",",
+			"\"",
+			",missing",
+			"\\n",
+			"",
+			",missing",
+			"",
+			"/home/sebastiankopsel/Data/azmodan-corpus/",
+			"",
+			"/home/sebastiankopsel/Data/azmodan-corpus/",
+			"/home/sebastiankopsel/Data/azmodan-corpus",
+			"/home/sebastiankopsel/Data/azmodan-corpus/",
+			"",
+			"/home/sebastiankopsel/Data/azmodan-corpus/",
+			"/home/sebastiankopsel/Data/azmodan-corpus",
+			"",
+			"corpora",
+			"/home/sebastiankopsel/Data/azmodan-corpus/",
+			"",
+			"/",
+			"",
+			"/home/sebastiankopsel/Data/azmodan-corpus/",
+			"",
+			",missing",
+			"",
+			",missing",
+			"corpora/",
+			"^corpora/",
+			"",
+			"\\t",
+			"x",
+			"\\t",
+			"",
+			"_region",
+			"    ",
+			"  "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "latex/literature.bib",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19848,
+								19848
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/Bibtex.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 16734.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/sebastiankopsel/meh.98",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 142.0
+	},
+	"output.markdown":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "thesis.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lit",
+				"literature.bib"
+			],
+			[
+				"kr",
+				"korpus.tex"
+			],
+			[
+				"",
+				"03-07-hivents.tex"
+			],
+			[
+				"03",
+				"03-07-hivents.tex"
+			],
+			[
+				"in",
+				"01-introduction.tex"
+			],
+			[
+				"co",
+				"05-conclusion.tex"
+			],
+			[
+				"do",
+				"documentation.tex"
+			],
+			[
+				"fu",
+				"06-future_work.tex"
+			],
+			[
+				"hi",
+				"~/HistoGlobe_Projekt/HistoGlobeAtSchool/hivents.tex"
+			],
+			[
+				"us",
+				"~/HistoGlobe_Projekt/HistoGlobeAtSchool/03-UI_elements.tex"
+			],
+			[
+				"doc",
+				"~/HistoGlobe_Projekt/HistoGlobeAtSchool/documentation.tex"
+			],
+			[
+				"ma",
+				"~/HistoGlobe_Projekt/HistoGlobeAtSchool/03-01-map.tex"
+			],
+			[
+				"hiventha",
+				"script/modules/hivents/HiventHandle.coffee"
+			],
+			[
+				"bui",
+				"script/modules/hivents/HiventBuilder.coffee"
+			],
+			[
+				"cate",
+				"script/modules/category_icon_mapping/CategoryIconMapping.coffee"
+			],
+			[
+				"marker",
+				"script/modules/hivents/HiventMarker2D.coffee"
+			],
+			[
+				"time",
+				"script/timeline/Timeline.coffee"
+			],
+			[
+				"hive",
+				"script/modules/hivents/HiventPresenter.coffee"
+			],
+			[
+				"hivent",
+				"script/modules/hivents/HiventMarker.coffee"
+			],
+			[
+				"link",
+				"script/modules/control_buttons/OpenLinkButton.coffee"
+			],
+			[
+				"linkb",
+				"~/HistoGlobe_Projekt/HistoGlobeAtSchool/script/modules/control_buttons/OpenLinkButton.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 369.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
