@@ -367,5 +367,5 @@
   \fi%
 }
 
-\setcounter{secnumdepth}{1}
-\setcounter{tocdepth}{1}
+\setcounter{secnumdepth}{2}
+\setcounter{tocdepth}{2}
